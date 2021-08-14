@@ -1,0 +1,6 @@
+keras
+numpy
+keras-models
+tensorflow
+selenium
+wget
